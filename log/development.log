@@ -153,3 +153,103 @@ Processing by StaticPagesController#home as HTML
 Completed 200 OK in 351ms (Views: 327.5ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for ::1 at 2017-02-08 21:46:29 +0800
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (928.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (4.0ms)
+Completed 200 OK in 1448ms (Views: 1396.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-02-08 21:49:52 +0800
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (4.0ms)
+Started GET "/" for ::1 at 2017-02-08 21:49:57 +0800
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (36.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 14292ms (Views: 14260.5ms | ActiveRecord: 0.0ms)
+
+
+  Rendered layouts/_shim.html.erb (4.0ms)
+  Rendered layouts/_header.html.erb (4.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 13589ms (Views: 13503.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-02-08 21:50:19 +0800
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (8.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (4.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 9107ms (Views: 9079.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-02-08 21:50:58 +0800
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (8.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (4.0ms)
+Completed 200 OK in 9467ms (Views: 9437.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-02-08 21:51:18 +0800
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (8.0ms)
+  Rendered layouts/_shim.html.erb (4.0ms)
+  Rendered layouts/_header.html.erb (4.0ms)
+  Rendered layouts/_footer.html.erb (4.0ms)
+Completed 200 OK in 9520ms (Views: 9494.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-02-08 21:52:01 +0800
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (4.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (4.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 9267ms (Views: 9240.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-02-08 21:53:40 +0800
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (8.0ms)
+  Rendered layouts/_shim.html.erb (4.0ms)
+  Rendered layouts/_header.html.erb (4.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 9346ms (Views: 9317.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-02-08 21:54:05 +0800
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (8.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 368ms (Views: 341.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-02-08 21:54:47 +0800
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (8.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (4.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 9131ms (Views: 9100.9ms | ActiveRecord: 0.0ms)
+
+
